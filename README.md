@@ -19,3 +19,9 @@ Here's the main stack I'm using right now:
 | **DevOps/Deployment** | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="google_cloud" width="90" height="45"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" width="90" height="45"/> |
 | **Additional tools**      | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/> &nbsp;&nbsp; <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.svg" alt="git" width="80" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="github" width="70" height="45"/></p> |
 
+🌐 **Connect with Me**
+
+<a href="https://www.linkedin.com/in/anaseh/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+
